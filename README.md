@@ -1,2 +1,1 @@
-# homework2_bootstrap
-This repo contains my site recreated using Bootstrap.
+# weston_rose_portfolio
